@@ -58,7 +58,7 @@ S1               Gage1            J1               34.74    91       1237     0.
 [SUBAREAS]
 ;;Subcatchment   N-Imperv   N-Perv     S-Imperv   S-Perv     PctZero    RouteTo    PctRouted 
 ;;-------------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
-S1               0.01       0.1        25         1          26         OUTLET    
+S1               0.011       0.1        0.04         1          26         OUTLET    
 
 [INFILTRATION]
 ;;Subcatchment   Suction    Ksat       IMD       
